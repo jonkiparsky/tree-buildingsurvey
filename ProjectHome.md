@@ -1,0 +1,5 @@
+Evolution is the core of modern biology. Students at all levels need to have an understanding of evolution. Developing effective teaching tools requires evaluation instruments that measure students' understanding of key concepts. One key part of evolutionary biology is phylogenetic trees which show the evolutionary history and degree of relatedness of organisms. Our goal is to produce an applet-based survey to assess students' ability to construct correct evolutionary trees of familiar organisms. This applet will allow students to construct a tree based on familiar organisms, edit this tree, and save it to a server. The applet will also allow for automatic scoring of several key features of these trees.<br>
+
+<a href='TBSAppletBinaryInstall.md'>Click here to install the binary-only TBSApplet</a><br>
+
+<a href='AdminApplicationBinaryInstall.md'>Click here to install the binary-only AdminApplication (including student trees)</a><br>

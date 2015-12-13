@@ -1,0 +1,1 @@
+![http://upload.wikimedia.org/wikipedia/commons/c/c4/Model-View-Controller_First_Draft.jpg](http://upload.wikimedia.org/wikipedia/commons/c/c4/Model-View-Controller_First_Draft.jpg)
